@@ -1,0 +1,6 @@
+# Only what the pipeline actually imports. Everything else is the Python standard library (sqlite3, csv, json, re, datetime).
+pdfplumber>=0.11      # PDF text extraction (falls back to pypdf if it fails)
+pypdf>=5.0            # fallback PDF reader
+pytest>=8.0           # tests
+# Optional OCR on non-macOS machines when code/cache/ocr_cache.json does not cover an image:
+# pytesseract>=0.3  and  Pillow>=10   (plus the tesseract binary)

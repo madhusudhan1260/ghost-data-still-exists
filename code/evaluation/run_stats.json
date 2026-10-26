@@ -1,0 +1,34 @@
+{
+ "ambiguous_account_links": 21,
+ "elapsed_seconds": 0.55,
+ "estimated_cost_usd": 0.0,
+ "evidence_files": 94,
+ "evidence_parse_failures": {},
+ "input_tokens": 0,
+ "model_calls": 0,
+ "no_audit_record_rows": 91,
+ "observations": 2605,
+ "ocr_files": {
+  "evidence_04": "ocr[apple-vision+cache] chars=1071",
+  "evidence_09": "ocr[apple-vision+cache] chars=1037",
+  "evidence_14": "ocr[apple-vision+cache] chars=1187",
+  "evidence_19": "ocr[apple-vision+cache] chars=1199",
+  "evidence_23": "ocr[apple-vision+cache] chars=1204",
+  "evidence_28": "ocr[apple-vision+cache] chars=1198",
+  "evidence_32": "ocr[apple-vision+cache] chars=1370",
+  "evidence_37": "ocr[apple-vision+cache] chars=1289",
+  "evidence_42": "ocr[apple-vision+cache] chars=1229",
+  "evidence_46": "ocr[apple-vision+cache] chars=1397",
+  "evidence_60": "ocr[apple-vision+cache] chars=1170"
+ },
+ "output_tokens": 0,
+ "requests": 518,
+ "requests_file": "deletion_requests.csv",
+ "status_counts": {
+  "COMPLETE": 152,
+  "INCOMPLETE": 356,
+  "NOT_APPLICABLE": 10
+ },
+ "steps_total": 3281,
+ "unmatched_account_links": 10
+}
